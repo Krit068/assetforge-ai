@@ -2,6 +2,10 @@
 
 AssetForge AI 是一个面向游戏开发者和美术团队的 AI 3D 素材生成工作台。用户可以通过文字或参考图描述角色、道具和场景资产，经过需求补全、概念图确认、AI 建模、在线预览和技术质检，最终导出 GLB 模型。
 
+<p align="center">
+  <img src="frontend/public/readme-assets/assetforge-ui.png" alt="AssetForge AI 产品生成器界面" width="100%">
+</p>
+
 ## 项目内容
 
 本仓库包含完整的前后端原型和产品文档：
