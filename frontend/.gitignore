@@ -1,0 +1,11 @@
+.env*
+!.env.example
+.dev.vars
+.vinext/
+.next/
+.wrangler/
+dist/
+node_modules/
+playwright-report/
+test-results/
+*.tsbuildinfo
